@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name":"Basic Membership",
+    "label": "Basic",
+    "price": 50,
+    "features": ["Access to gym equipment", "One fitness class per week"]
+  },
+  {
+    "id": 2,
+    "name":"Premium Membership",
+    "label": "Standard",
+    "price": 75,
+    "features": [
+      "Access to gym equipment",
+      "Two fitness classes per week",
+      "One personal training session per month"
+    ]
+  },
+  {
+    "id": 3,
+    "name":"Corporate Membership",
+    "label": "Premium",
+    "price": 100,
+    "features": [
+      "Access to gym equipment",
+      "Unlimited fitness classes per week",
+      "Two personal training sessions per month",
+      "Sauna and steam room access"
+    ]
+  }
+]
